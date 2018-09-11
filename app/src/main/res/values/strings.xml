@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Master</string>
+    <string name="title_activity_maps">Master</string>
+    <string name="startup_question">Da li želiš da šalješ serveru svoje podatke o kretanju?</string>
+
+    <string-array name="data_sources_array">
+        <item>Svi podaci</item>
+        <item>Google podaci</item>
+        <item>Kamere</item>
+        <item>Mobilni uredjaji</item>
+        <item>Javne sluzbe</item>
+    </string-array>
+
+
+</resources>
